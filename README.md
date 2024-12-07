@@ -2,8 +2,6 @@
 
 A Python-based application that allows real-time color detection in images using OpenCV and a comprehensive color database. This interactive tool helps users identify precise color names and RGB values by simply double-clicking on any pixel in the image.
 
-🔗 [Live Demo](https://ayus1234.github.io/Color_Detection_System/)
-
 ## Features
 
 - Real-time color detection from images
