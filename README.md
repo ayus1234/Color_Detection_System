@@ -69,7 +69,6 @@ The system works by:
 
 ![Screenshot 3](https://github.com/ayus1234/Color_Detection_System/assets/107507481/c7e8d527-39af-4482-a803-b366b28b8705)
 
-![Screenshot 4](https://github.com/ayus1234/Color_Detection_System/assets/107507481/0d207e79-1125-4196-95a3-eb6f92f31a85)
 
 ## License
 
