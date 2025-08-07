@@ -70,11 +70,7 @@ The system works by:
 ![Screenshot 3](https://github.com/ayus1234/Color_Detection_System/assets/107507481/c7e8d527-39af-4482-a803-b366b28b8705)
 
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
-- This project is licensed under the [MIT License](LICENSE).
-- You are free to use, modify, and distribute this software with proper attribution.
+- This project is licensed under the [MIT License](LICENSE)
+- You are free to use, modify, and distribute this software with proper attribution
