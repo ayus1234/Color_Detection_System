@@ -76,5 +76,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).  
-You are free to use, modify, and distribute this software with proper attribution.
+- This project is licensed under the [MIT License](LICENSE).
+- You are free to use, modify, and distribute this software with proper attribution.
